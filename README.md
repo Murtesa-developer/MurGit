@@ -5,7 +5,7 @@
 A specialized Android application for managing GitHub SSH keys and monitoring repository activities.
 
 ## Original Author
-**murtesa developer**
+**Murtesa Developer**
 
 ## Features
 - Securely manage SSH keys.
