@@ -2,10 +2,6 @@
 
 ![Banner](banner.jpeg)
 
-<p align="center">
-  <img src="app/src/main/res/drawable/logo.png" width="128" height="128" alt="MurGit Logo">
-</p>
-
 A specialized Android application for managing GitHub SSH keys and monitoring repository activities.
 
 ## Original Author
