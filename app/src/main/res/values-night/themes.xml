@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme for Night mode. -->
+    <style name="Base.Theme.Murgit" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/night_primary</item>
+        <item name="colorOnPrimary">@color/night_on_primary</item>
+        <item name="colorPrimaryContainer">@color/night_container</item>
+        <item name="colorOnPrimaryContainer">@color/night_on_bg</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/night_secondary</item>
+        <item name="colorOnSecondary">@color/night_on_secondary</item>
+        <item name="colorSecondaryContainer">@color/night_container</item>
+        <item name="colorOnSecondaryContainer">@color/night_on_surface</item>
+
+        <!-- Status bar and navigation bar color. -->
+        <item name="android:statusBarColor">@color/night_bg</item>
+        <item name="android:navigationBarColor">@color/night_bg</item>
+
+        <!-- Background/Surface colors. -->
+        <item name="android:windowBackground">@color/night_bg</item>
+        <item name="colorSurface">@color/night_surface</item>
+        <item name="colorOnSurface">@color/night_on_surface</item>
+        <item name="colorSurfaceVariant">@color/night_surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/night_on_surface_variant</item>
+        <item name="colorOutline">@color/night_outline</item>
+
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!-- Better Button Design -->
+        <item name="materialButtonStyle">@style/Widget.Material3.Button.TonalButton</item>
+    </style>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Material 3 Primary Colors (Light) -->
+    <color name="primary">#2196F3</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#D1E4FF</color>
+    <color name="onPrimaryContainer">#001D36</color>
+
+    <!-- Material 3 Secondary Colors (Light) -->
+    <color name="secondary">#535F70</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="secondaryContainer">#D7E3F7</color>
+    <color name="onSecondaryContainer">#101C2B</color>
+
+    <!-- Background / Surface (Light) -->
+    <color name="background">#FDFBFF</color>
+    <color name="onBackground">#1A1C1E</color>
+    <color name="surface">#FDFBFF</color>
+    <color name="onSurface">#1A1C1E</color>
+    <color name="surfaceVariant">#DFE2EB</color>
+    <color name="onSurfaceVariant">#43474E</color>
+
+    <!-- Error Colors -->
+    <color name="error">#BA1A1A</color>
+    <color name="onError">#FFFFFF</color>
+
+    <!-- Futuristic Night Theme Palette -->
+    <color name="night_bg">#03040C</color> <!-- Dark navy -->
+    <color name="night_surface">#0B0A20</color> <!-- Mid dark tone -->
+    <color name="night_container">#13092E</color> <!-- Deep purple/navy -->
+
+    <color name="night_primary">#00E5FF</color> <!-- Neon Cyan -->
+    <color name="night_on_primary">#00363D</color>
+    <color name="night_secondary">#7C4DFF</color> <!-- Electric Purple -->
+    <color name="night_on_secondary">#FFFFFF</color>
+
+    <color name="night_on_bg">#E2E2E6</color>
+    <color name="night_on_surface">#E2E2E6</color>
+    <color name="night_surface_variant">#242431</color>
+    <color name="night_on_surface_variant">#A1A4B0</color>
+    <color name="night_outline">#3F414E</color>
+
+    <color name="night_accent">#00FF88</color> <!-- Neon Green for success/monitoring -->
+</resources>
